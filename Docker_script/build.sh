@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE_NAME="arya"
+IMAGE_NAME="arya7113/tdsproj1"
 
 echo "Building Docker image: $IMAGE_NAME..."
 docker build -t $IMAGE_NAME .
